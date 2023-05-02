@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @tesfayeanteneh
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-tesfayeanteneh/tesfayeanteneh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Tesfaye
+- 👀 I’m interested in control systems design, motor control and drives, PLC and robotics
+- 🌱 I’m currently learning mechatronics engineering robotics and electronics
+- 💞️ I’m looking to collaborate on control system development package design Using python, C/C++ and MATLAB 
+- 📫 tesfayedmu@gmail.com
+- 
